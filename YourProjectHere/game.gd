@@ -6,5 +6,5 @@ func _ready() -> void:
 	
 	
 	
-func play(a,b)->void:
+func play(a,b) -> void:
 	CrispGDUtility.end_game()
